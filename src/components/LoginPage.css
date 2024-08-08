@@ -1,0 +1,22 @@
+.first_half{
+    background: #e5e4e4;
+}.header-image{
+    /* margin-left: 5px;
+    margin-top: 0px; */
+    height: 50px;
+}.header{
+    height: 50px;
+    align-items: center;
+    padding: 10px;
+    position: fixed;
+}
+img{
+    height: 500px;
+    /* border-radius: 5px; */
+}
+/* styles.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
